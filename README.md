@@ -1,7 +1,7 @@
 WikipediaXMLHadoopParser
 ========================
 <h2>Input :</h2> 
-Wikipedia dump, metadata history XML files (XXwiki-latest-stub-meta-historyXX.xml.gz) from <a href="http://dumps.wikimedia.org/">http://dumps.wikimedia.org/</a>
+Wikipedia dump, metadata history XML files (XXwiki-latest-stub-meta-historyXX.xml.gz) from <a href="http://dumps.wikimedia.org/enwiki">http://dumps.wikimedia.org/enwiki</a>
 
 <h2>Output :</h2>
 Flats files with the following structure<br/>
